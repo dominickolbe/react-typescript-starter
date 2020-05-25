@@ -4,9 +4,10 @@
 
 ## Preview
 
+[live preview on vercel.com](https://react-typescript-starter.now.sh)
+
 ```http
 https://react-typescript-starter.now.sh
-
 ```
 
 ## Getting Started
