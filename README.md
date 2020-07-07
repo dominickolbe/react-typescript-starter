@@ -16,24 +16,24 @@ https://react-typescript-starter.now.sh
 
 make sure you have installed all dependencies before moving on
 
-```
-$ yarn
+```bash
+yarn
 ```
 
 ## Development
 
 start dev server
 
-```
-$ yarn start
+```bash
+yarn start
 ```
 
 ## Production
 
 build application
 
-```
-$ yarn build
+```bash
+yarn build
 ```
 
 ## License
