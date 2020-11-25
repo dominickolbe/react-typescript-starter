@@ -12,7 +12,7 @@
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
-    "@material-ui/styles": "^4.10.0",
+    "@material-ui/styles": "^4.11.1",
     "overmind": "^24.1.1",
     "overmind-react": "^25.1.1",
     "react": "^16.14.0",
