@@ -1,0 +1,48 @@
+{
+  "name": "react-typescript-starter",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Dominic Kolbe",
+    "email": "kolbedominic@gmail.com",
+    "url": "https://dominickolbe.dk"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "yarn prettier:check",
+    "prettier:check": "prettier --check .",
+    "prettier:fix": "prettier --write .",
+    "release": "standard-version"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "typescript": "5.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "18.15.10",
+    "@types/react": "18.0.29",
+    "@types/react-dom": "18.0.11",
+    "prettier": "2.8.7",
+    "standard-version": "^9.5.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
